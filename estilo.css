@@ -1,0 +1,12 @@
+img{
+    border: 3px solid black;
+}
+
+body, h1, h3{
+    background-color:  rgb(161, 203, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: rgb(255, 0, 0);
+}
